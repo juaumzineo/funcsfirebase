@@ -36,4 +36,5 @@ exports.addMessage = functions.https.onRequest(async (req, res) => {
     // Deleta o documento especificado usando o Firebase Admin SDK.
     db = admin.firestore();
     const snapshot = await db.collection(colid).doc(docid).delete();
+	// Uso: /delDocuments?col=COLECAO&doc=DOC
   });
