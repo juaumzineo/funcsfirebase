@@ -1,7 +1,7 @@
 # Funções do Firebase Functions
 
-Funções feitas por mim para o Firebase Functions (Atualizadas regularmente ~~... ou não...~~).<br>
-Firebase Functions made by me (Updated regularly ~~... or not...~~).
+Algumas funções para o Firebase Functions (Atualizadas regularmente ~~... ou não...~~).<br>
+Some functions for using in Firebase Functions (Updated regularly ~~... or not...~~).
 
 ## Funções presentes
 
