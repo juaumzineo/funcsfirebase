@@ -1,7 +1,7 @@
 # Funções do Firebase Functions
 
-Funções feitas por mim para o Firebase Functions (Atualizadas regularmente).<br>
-Firebase Functions made by me (Updated regularly).
+Funções feitas por mim para o Firebase Functions (Atualizadas regularmente ~~... ou não...~~).<br>
+Firebase Functions made by me (Updated regularly ~~... or not...~~).
 
 ## Funções presentes
 
@@ -11,5 +11,9 @@ Firebase Functions made by me (Updated regularly).
 
 ## Getting Started
 
-- Baixe o index.js e coloque na pasta functions.
-- Download index.js and put on the functions folder.
+#### EN
+- See [Functions Get-Started](https://firebase.google.com/docs/functions/get-started).
+- Download [index.js](https://github.com/juaumzineo/funcsfirebase/blob/master/index.js) and put on the functions folder.
+#### PTBR
+- Veja [Functions Get-Started](https://firebase.google.com/docs/functions/get-started).
+- Baixe o [index.js](https://github.com/juaumzineo/funcsfirebase/blob/master/index.js) e coloque ele na pasta Functions.
